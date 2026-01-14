@@ -1,0 +1,33 @@
+# Node
+node_modules/
+dist/
+build/
+.env
+
+# Gemini CLI
+.gemini/
+tmp/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# IDEs
+.idea/
+
+# Editor config
+.editorconfig
+
+# Other
+coverage/
+package-lock.json
+*.tgz
